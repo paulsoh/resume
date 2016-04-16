@@ -2,7 +2,7 @@
 ## soon-to-be Developer
 
 ### Contacts
-[![email](https://img.shields.io/badge/email-yongdoree@gmail-00059f.svg)](mailto:yongdoree@gmail.com)
+[![email](https://img.shields.io/badge/email-yongdoree-00059f.svg)](mailto:yongdoree@gmail.com)
 [![Personal Blog](https://img.shields.io/badge/Personal_blog-blog.paulsoh.co-0229bf.svg)](https://blog.paulsoh.co/)
 [![Facebook](https://img.shields.io/badge/facebook-Paul_Soh-2c2cff.svg)](https://www.facebook.com/pau1soh/)
 [![Twitter](https://img.shields.io/badge/twitter-pau1soh-4e91fd.svg)](https://https://twitter.com/pau1soh/)
@@ -18,12 +18,14 @@
   + Played center at Kaist basketball team(2008)
 
 ### Projects
-  + [the Moxie lab project](https://moxie.kr) [![github](https://img.shields.io/badge/github-moxie-lightgrey.svg)](https://github.com/paulsoh/moxie/tree/develop)
+  + [the Moxie lab project](https://moxie.kr) - Individual Project [![github](https://img.shields.io/badge/github-moxie-lightgrey.svg)](https://github.com/paulsoh/moxie/tree/develop)
     + Crowd funding website mockup built with Django
+      + Role: UX/UI design, Front, Back-end design, Server deployment(AWS EC2, S3, Cloudfront, NginX)
       + Frontend: Bootstrap3-sass, Sass, Jquery(Ajax), React.js
       + Backend: Django, Django rest framework, PostgreSQL, 
-  + the Goqual project [![github](https://img.shields.io/badge/github-goqual-lightgrey.svg)](https://github.com/paulsoh/vanity-fair/tree/develop)
-    + Youtube video curation website with Django
+  + the Goqual project [![github](https://img.shields.io/badge/github-goqual-lightgrey.svg)](https://github.com/paulsoh/vanity-fair/tree/develop) - Individual Project
+    + Youtube video curation website with Django 
+      + Role: UX/UI design, Front, Back-end design, Server deployment(AWS EC2, S3, Cloudfront, NginX)
       + Frontend: materialize-css, Bootstrap3.0, Sass
       + Backend: Django, PostgreSQL
 
