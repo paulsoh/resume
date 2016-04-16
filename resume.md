@@ -22,7 +22,7 @@
     + Crowd funding website mockup built with Django
       + Frontend: Bootstrap3-sass, Sass, Jquery(Ajax), React.js
       + Backend: Django, Django rest framework, PostgreSQL, 
-  + [the Goqual project](https://moxie.kr) [![github](https://img.shields.io/badge/github-goqual-lightgrey.svg)](https://github.com/paulsoh/vanity-fair/tree/develop)
+  + the Goqual project [![github](https://img.shields.io/badge/github-goqual-lightgrey.svg)](https://github.com/paulsoh/vanity-fair/tree/develop)
     + Youtube video curation website with Django
       + Frontend: materialize-css, Bootstrap3.0, Sass
       + Backend: Django, PostgreSQL
@@ -48,5 +48,5 @@
 - M.S. at Seoul National Univ. (05.03~10.02)
   + Dept. of Electrical and Computer Engineering
     + Image processing and Computer Vision
-    + M.S. Thesis: Superpixel-based depth image super-resolution
+    + M.S. Thesis: Superpixel-based depth image super-resolution([Proceedings](http://spie.org/Publications/Proceedings/Paper/10.1117/12.909848))
 - Fastcampus Webprogramming School (16.01~16.04)
