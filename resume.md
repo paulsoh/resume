@@ -38,9 +38,9 @@
 
 | Etc.    	| Descriptions                              	|
 |----------	|-------------------------------------------	|
-| DevOps   	| Sentry, TravisCI, AWS EC2, S3, Cloudfront 	|
+| DevOps   	| Sentry, TravisCI, AWS EC2, S3, Cloudfront, Honcho, [Fabric](http://www.fabfile.org/) 	|
 | OS       	| Mac OSx, Windows, Linux(Ubuntu)           	|
-| 코딩 환경	| vim, tmux, atom, Pycharm                  	|
+| Editors   | vim, tmux, atom, Pycharm                  	|
 
 ### Education
 - B.S. at KAIST (05.03~10.02)
