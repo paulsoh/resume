@@ -45,7 +45,7 @@
 ### Education
 - B.S. at KAIST (05.03~10.02)
     + Dept. of Electrical Engineering 
-- M.S. at Seoul National Univ. (05.03~10.02)
+- M.S. at Seoul National Univ. (10.03~12.02)
   + Dept. of Electrical and Computer Engineering
     + Image processing and Computer Vision
     + M.S. Thesis: Superpixel-based depth image super-resolution([Proceedings](http://spie.org/Publications/Proceedings/Paper/10.1117/12.909848))
